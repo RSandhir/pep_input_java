@@ -3,7 +3,7 @@ class ExceptionEx{
         int a[]=new int[5];
         try{
             int x=10;
-            int y=10;
+            int y=0;
             int z=x/y;
             a[7]=90;
             System.out.println("TryBlock");
