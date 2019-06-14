@@ -1,0 +1,95 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InterEx",
+            "request": "launch",
+            "mainClass": "InterEx",
+            "projectName": "pep_java_input_6f8b3d36"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OverloadEx",
+            "request": "launch",
+            "mainClass": "OverloadEx",
+            "projectName": "pep_java_input_6f8b3d36"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "pep_java_input_6f8b3d36"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TypeCast",
+            "request": "launch",
+            "mainClass": "TypeCast",
+            "projectName": "pep_java_input_6f8b3d36"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "pep_java_input_6f8b3d36"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThisEx",
+            "request": "launch",
+            "mainClass": "ThisEx",
+            "projectName": "pep_java_input_6f8b3d36"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ques1",
+            "request": "launch",
+            "mainClass": "Ques1",
+            "projectName": "pep_java_input_6f8b3d36"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConstructorsEx",
+            "request": "launch",
+            "mainClass": "ConstructorsEx",
+            "projectName": "pep_java_input_6f8b3d36"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ObjEx",
+            "request": "launch",
+            "mainClass": "ObjEx",
+            "projectName": "pep_java_input_6f8b3d36"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ScanEx",
+            "request": "launch",
+            "mainClass": "ScanEx",
+            "projectName": "pep_java_input_6f8b3d36"
+        },
+        {
+            "name": "Debug Java",
+            "type": "java",
+            "request": "launch",
+            "externalConsole": true,
+            "stopOnEntry": true,
+            "preLaunchTask": "build",
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${workspaceRoot}",
+            "startupClass": "${workspaceRoot}${file}",
+            "sourcePath": [
+                "${workspaceRoot}"
+            ],
+            "classpath": [
+                "${workspaceRoot}"
+            ],
+            "options": [],
+            "args": []
+        }
+    ],
+    "compounds": []
+}
