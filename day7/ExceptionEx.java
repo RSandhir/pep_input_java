@@ -18,5 +18,6 @@ class ExceptionEx{
         finally{
             System.out.println("Finnaly");
         }
+        //System.out.println(x);
     }
 }
