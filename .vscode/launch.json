@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - AssertEx",
+            "request": "launch",
+            "mainClass": "AssertEx",
+            "projectName": "pep_input_java_92bcafd3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayAdd",
+            "request": "launch",
+            "mainClass": "ArrayAdd",
+            "projectName": "pep_input_java_92bcafd3"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - InterEx",
             "request": "launch",
             "mainClass": "InterEx",
