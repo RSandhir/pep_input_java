@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TimeEx",
+            "request": "launch",
+            "mainClass": "TimeEx",
+            "projectName": "pep_java_input_6f8b3d36"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - AssertEx",
             "request": "launch",
             "mainClass": "AssertEx",
