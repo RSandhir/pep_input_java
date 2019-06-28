@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CallableEx",
+            "request": "launch",
+            "mainClass": "CallableEx",
+            "projectName": "pep_java_input_6f8b3d36"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FileInputEx",
             "request": "launch",
             "mainClass": "FileInputEx",
